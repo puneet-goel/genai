@@ -1,0 +1,19 @@
+{
+  "name": "basic-interaction-with-llm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.45.0",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "readline": "^1.3.0"
+  }
+}
