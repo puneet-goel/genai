@@ -10,7 +10,7 @@ dotenv.config()
 /**
  * step 1. Load the document
  */
-const loader = new DocxLoader('./bitcoin_and_crypto.docx')
+const loader = new DocxLoader('../../resources/docx/bitcoin_and_crypto.docx')
 
 const docs = await loader.load()
 
