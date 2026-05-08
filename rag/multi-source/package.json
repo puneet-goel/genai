@@ -1,0 +1,20 @@
+{
+  "name": "multi-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^1.1.28",
+    "@langchain/google-genai": "^2.1.30",
+    "chromadb": "^3.4.3",
+    "dotenv": "^16.6.1",
+    "langchain": "^1.4.0",
+    "mammoth": "^1.12.0"
+  }
+}
