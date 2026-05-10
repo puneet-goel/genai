@@ -1,0 +1,18 @@
+{
+  "name": "resume-optimizing-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@langchain/google-genai": "^2.1.30",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.4.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
