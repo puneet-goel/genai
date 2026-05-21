@@ -1,0 +1,20 @@
+{
+  "name": "file-assistant-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/google-genai": "^2.1.30",
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "zod": "^4.4.3"
+  }
+}
